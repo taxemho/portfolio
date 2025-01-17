@@ -25,7 +25,7 @@ body {
 :root {
   --primary-color: #4831d4;
   --secondary-color: #ccf381;
-  --text-color: #3d155f;
+  --text-color: #0f4a10;
   --background-color: #f8f8f8;
 }
 
@@ -135,4 +135,7 @@ h1, h2, h3 {
 
 .fade-in {
   animation: fadeIn 1s ease-in-out;
+}
+.jiggle-title {
+  transition: transform 0.1s ease-out;
 }

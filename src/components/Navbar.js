@@ -12,14 +12,14 @@ const Navbar = () => {
           <div className="flex space-x-7">
             <div>
               <Link href="/" className="flex items-center py-4 px-2">
-                <span className="font-semibold text-gray-500 text-lg">Anshul Sharma</span>
+                <span className="font-semibold text-500 text-lg">Anshul Sharma</span>
               </Link>
             </div>
           </div>
           <div className="hidden md:flex items-center space-x-1">
-            <Link href="/" className="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Home</Link>
+            <Link href="/" className="py-4 px-2 text-500 hover:text-green-500 transition duration-300">Home</Link>
             <Link href="#about" className="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">About</Link>
-            <Link href="#projects" className="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Projects</Link>
+            <Link href="#projects" className="py-4 px-2 text-500 hover:text-green-500 transition duration-300">Projects</Link>
             <Link href="#contact" className="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Contact</Link>
           </div>
           <div className="md:hidden flex items-center">
