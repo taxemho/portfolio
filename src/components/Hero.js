@@ -9,7 +9,7 @@ const Hero = () => {
         </div>
         <div className="flex flex-col items-center text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-4 w-full">Hi, I'm Anshul Sharma</h1>
-          <p className="text-xl mb-8">ava Developer</p>
+          <p className="text-xl mb-8">Java Developer</p>
           <a href="#contact" className="bg-green-500 text-white px-6 py-3 rounded-full hover:bg-green-600 transition duration-300 mt-8">Get in Touch</a>
         </div>
       </div>
