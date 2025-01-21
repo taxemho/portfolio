@@ -4,7 +4,7 @@ const About = () => {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
           <p className="text-lg mb-4">
-            I'm a Full Stack Java Developer with over 1 year of experience in building scalable web applications. 
+            I'm an Java Developer with over 1 year of experience in building scalable web applications. 
             My expertise lies in Java, Spring Framework, and React.js, allowing me to create robust backend systems 
             and intuitive user interfaces.
           </p>
