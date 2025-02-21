@@ -4,14 +4,17 @@ const About = () => {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
           <p className="text-lg mb-4">
-            I'm an Java Developer with over 1 year of experience in building scalable web applications. 
-            My expertise lies in Java, Spring Framework, and React.js, allowing me to create robust backend systems 
-            and intuitive user interfaces.
+          With nearly 2 years of hands-on experience as a Java Developer, I specialize in 
+          creating efficient and scalable software solutions across both frontend and backend technologies. 
+          My background in Mechatronics Engineering brings a unique perspective to my work, 
+          allowing me to approach problems with a multidisciplinary mindset.
+
           </p>
           <p className="text-lg mb-4">
-            I'm passionate about clean code, efficient algorithms, and creating software that solves real-world problems. 
-            When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, 
-            or sharing my knowledge through tech blogs.
+          I’m passionate about tackling complex challenges, continuously adapting to emerging technologies, and
+          ensuring software projects meet the highest standards of quality and performance.  
+          I have a strong foundation in DevOps and AWS, enhancing my ability to optimize workflows,
+          streamline deployment pipelines, and scale applications in cloud environments.
           </p>
         </div>
       </section>
