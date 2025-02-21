@@ -1,16 +1,25 @@
 const Projects = () => {
     const projects = [
       {
-        title: "Stochos FinTech Integration",
-        description: "Implemented multiple payment gateways for a leading Middle Eastern financial technology platform.",
-        tech: ["Java", "Spring Boot", "React", "AWS"]
+        title: "Stochos FinTech",
+        description: "Engineered a Spring Boot and React financial services platform with PostgreSQL, ensuring secure digital transactions and seamless multi-bank API connectivity",
+        tech: ["Java", "Spring Boot", "JavaScript", "AWS"]
       },
       {
-        title: "Content Management System",
-        description: "Developed a comprehensive backend dashboard for MobileMasala.com using React and Spring framework.",
-        tech: ["React", "Spring", "MySQL", "Bootstrap"]
+        title: "SpeedPay Plus",
+        description: "Built a Java-based microservices payment processing system using Kubernetes, Docker, and AWS, improving transaction speed by 45% and reducing errors.",
+        tech: ["Docker", "Kubernetes", "Spring", "AWS", "Bootstrap"]
       },
-      // Add more projects as needed
+      {
+        title: "Mobile Masala",
+        description: "Developed React and Node.js content management system with MongoDB, automating publishing workflows and increasing efficiency by 30%.",
+        tech: ["JavaScript", "React", "Node.js", "AWS", "MongoDB"]
+      },
+      {
+        title: "BSNL CTopUp",
+        description: "Implemented a real-time ELK Stack monitoring system, reducing system outages by 25%, while upgrading the existing Javabased backend to improve performance by 20%.",
+        tech: ["Java", "JavaScript", "React", "Spring", "ELK", "JUnit"]
+      }
     ];
   
     return (
